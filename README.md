@@ -1,6 +1,6 @@
 ### signup-email-validation
 
-Need to create private-mailgun-auth.js in same directory as app.js
+Need to create **private-mailgun-auth.js** in same directory as app.js
 Fill in mailgun key and domain
 
 >//This is a private file not in github, private-mailgun-auth.js
